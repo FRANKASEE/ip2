@@ -31,6 +31,25 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8#http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225672/index.m3u8
+
+TVN Asia,https://epg.pw/stream/4efb8a9b2010d8221028680366f097d11576b9edf366db3351d44f673ee35452.ctv#https://epg.pw/stream/d08734f91887ecf5c99656c4c08b095894ac8aa587c2f95e12ca00778bd7217a.ctv#https://epg.pw/stream/191a9d677da3e267e1add29f7e54183fb2817756ce2ae297ae0a431bc7cabcf7.ctv#https://epg.pw/stream/eeb2ecc9d7ed4bfe9b18a7a81dc36da87c81311bd051505cc45ef3612b4bf049.ctv#https://epg.pw/stream/ff802b30ec5fab09fbbe6ae333a912761a488819c75760c795e056d9b7bf8d0d.ctv
+TVN Asia,https://epg.pw/stream/5d57f1de0afef54aa04fef2e721db8dad5b9626ab0d3df2cc1e21d77261a07a9.ctv#https://epg.pw/stream/f43a0fd6708ed76e7669f248b7bde7ad08f5fcda904b3805bdb008933ee03ada.ctv#https://epg.pw/stream/e873a9fd41cb5d85256945b27fcf125dda9120c4509f0caf0dacd66d6fa2ce0b.ctv#https://epg.pw/stream/3252e2c49b327417a82104253edabd7b3c248eb711b078911c7a353cce4c0e87.ctv
+TVN HD,https://epg.pw/stream/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
+TVN Asia[geo-blocked],https://epg.pw/stream/4a3395594734c7b14d6a4cb423ee75b1a28c370c096af05d236d3b5269376ea1.ctv#https://epg.pw/stream/783b753c8ea521aa47a847b292ea48cb0933e223adb64f5cf1f9799fea5a9062.m3u8#https://epg.pw/stream/6ed36a60289ade64090589e6edda8660c618c46dcc2af43b39a701dd1991ca69.ctv
+UBC SBS,https://epg.pw/stream/594cf8b3fcaeabcaa4903fe4de93be09630018d2eb0c790c54b37f9134fcf508.m3u8
+TVN Asia[geo-blocked],https://epg.pw/stream/6ed36a60289ade64090589e6edda8660c618c46dcc2af43b39a701dd1991ca69.ctv
+TVN Asia,https://epg.pw/stream/4efb8a9b2010d8221028680366f097d11576b9edf366db3351d44f673ee35452.ctv
+TVN Asia,https://epg.pw/stream/d08734f91887ecf5c99656c4c08b095894ac8aa587c2f95e12ca00778bd7217a.ctv
+TVN Asia,https://epg.pw/stream/191a9d677da3e267e1add29f7e54183fb2817756ce2ae297ae0a431bc7cabcf7.ctv
+TVN Asia,https://epg.pw/stream/eeb2ecc9d7ed4bfe9b18a7a81dc36da87c81311bd051505cc45ef3612b4bf049.ctv
+TVN Asia,https://epg.pw/stream/ff802b30ec5fab09fbbe6ae333a912761a488819c75760c795e056d9b7bf8d0d.ctv
+TVN Asia[geo-blocked],https://epg.pw/stream/4a3395594734c7b14d6a4cb423ee75b1a28c370c096af05d236d3b5269376ea1.ctv
+TVN Asia,https://epg.pw/stream/5d57f1de0afef54aa04fef2e721db8dad5b9626ab0d3df2cc1e21d77261a07a9.ctv
+TVN Asia,https://epg.pw/stream/f43a0fd6708ed76e7669f248b7bde7ad08f5fcda904b3805bdb008933ee03ada.ctv
+TVN Asia,https://epg.pw/stream/e873a9fd41cb5d85256945b27fcf125dda9120c4509f0caf0dacd66d6fa2ce0b.ctv
+TVN Asia,https://epg.pw/stream/3252e2c49b327417a82104253edabd7b3c248eb711b078911c7a353cce4c0e87.ctv
+TVN HD,https://epg.pw/stream/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
+TVN HD[geo-blocked],https://epg.pw/stream/783b753c8ea521aa47a847b292ea48cb0933e223adb64f5cf1f9799fea5a9062.m3u8
 湖南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226430/index.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226342/index.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
