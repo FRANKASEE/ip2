@@ -1,0 +1,87 @@
+{
+  "lives": [
+    {
+      "name": "m3u-1",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/1.m3u"
+    },
+	{
+      "name": "m3u-2",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/232.m3u"
+    },
+	{
+      "name": "m3u-3",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/900.m3u"
+    },
+	{
+      "name": "m3u-4",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV-Unicom.m3u"
+    },
+	{
+      "name": "m3u-5",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/ipv6Plus.m3u"
+    },
+    {
+      "name": "TXT-1",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+      "name": "TXT-2",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV2.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+      "name": "TXT-3",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV3.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "TXT-3",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/test_channels_china.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 1
+    },
+    {
+      "name": "EXO",
+      "url": "https://github.com/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 2
+    },
+    {
+      "name": "PRO",
+      "boot": false,
+      "url": "https://github.com/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "referer": "https://github.com/"
+    },
+    {
+      "name": "Custom",
+      "boot": false,
+      "pass": true,
+      "url": "https://github.com/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+        "Referer": "https://github.com/"
+      }
+    },
+    {
+      "name": "JSON",
+      "type": 1,
+      "url": "https://github.com/live.json"
+    },
+    {
+      "name": "Proxy",
+      "type": 2,
+      "url": "proxy://do=live&type=today"
+    }
+  ]
+}

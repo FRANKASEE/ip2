@@ -1,0 +1,62 @@
+{
+  "lives": [
+    {
+      "group": "自建仓库",
+      "channels": [
+        {
+          "name": "直播源1",
+          "urls": [
+            "https://raw.githubusercontent.com/FRANKASEE/ip2/main/232.m3u"
+          ]
+        },
+        {
+          "name": "直播源2",
+          "urls": [
+            "https://raw.githubusercontent.com/FRANKASEE/ip2/main/1.m3u"
+          ]
+        },
+        {
+          "name": "直播源3",
+          "urls": [
+            "https://raw.githubusercontent.com/FRANKASEE/ip2/main/900.m3u"
+          ]
+        },
+        {
+          "name": "直播源4",
+          "urls": [
+            "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV-Unicom.m3u"
+          ]
+        },
+        {
+          "name": "直播源5",
+          "urls": [
+            "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV.txt"
+          ]
+        },
+        {
+          "name": "直播6",
+          "urls": [
+            "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV2.txt"
+          ]
+        },
+        {
+          "name": "直播7",
+          "urls": [
+            "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV3.txt"
+          ]
+        },
+        {
+          "name": "直播8",
+          "urls": [
+            "https://raw.githubusercontent.com/FRANKASEE/ip2/main/ipv6Plus.m3u"
+          ]
+        },
+        {
+          "name": "直播9",
+          "urls": [
+            "https://raw.githubusercontent.com/FRANKASEE/ip2/main/test_channels_china.txt"
+          ]
+        }
+      ]
+    }
+  ]

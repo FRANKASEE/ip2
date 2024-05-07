@@ -1,0 +1,49 @@
+{
+  "lives": [
+    {
+      "name": "m3u-1",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/1.m3u"
+    },
+	{
+      "name": "m3u-2",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/232.m3u"
+    },
+	{
+      "name": "m3u-3",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/900.m3u"
+    },
+	{
+      "name": "m3u-4",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV-Unicom.m3u"
+    },
+	{
+      "name": "m3u-5",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/ipv6Plus.m3u"
+    },
+    {
+      "name": "TXT-1",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+      "name": "TXT-2",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV2.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+      "name": "TXT-3",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV3.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "TXT-3",
+      "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/test_channels_china.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 1
+    }
+  ]
+}
