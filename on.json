@@ -23,26 +23,26 @@
     {
       "name": "TXT-1",
       "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "https://epg.112114.xyz/pp.xml"，
+      "logo": "https://epg.112114.xyz/pp.xml"
     },
 	 {
       "name": "TXT-2",
       "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV2.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://epg.112114.xyz/pp.xml"
     },
 	 {
       "name": "TXT-3",
       "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV3.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://epg.112114.xyz/pp.xml"
     },
     {
       "name": "TXT-3",
       "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/test_channels_china.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://epg.112114.xyz/pp.xml",
       "playerType": 1
     },
     {
