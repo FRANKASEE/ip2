@@ -1,11 +1,11 @@
 {
   "lives": [
     {
-      "name": "m3u-1",
+      "name": "m3u-tc",
       "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/tc.m3u"
     },
 	{
-      "name": "m3u-2",
+      "name": "m3u-232",
       "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/232.m3u"
     },
 	{
@@ -17,11 +17,11 @@
       "url": "http://godiptv.dns.navy:1024/tv/getVideoConfigByPath/m3u/J04355695I19218922I832A816J4I378/2/height/y/ipv64"
     },
 	{
-      "name": "m3u-5",
+      "name": "m3u-ipv6Plus",
       "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/ipv6Plus.m3u"
     },
     {
-      "name": "TXT-1",
+      "name": "TXT-IPTV6",
       "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV6.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -33,7 +33,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	 {
-      "name": "TXT-3",
+      "name": "TXT-iptv3",
       "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/IPTV3.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
