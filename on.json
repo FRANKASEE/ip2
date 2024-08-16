@@ -13,10 +13,6 @@
       "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/900.m3u"
     },
 	{
-      "name": "m3u-AI自动扫描",
-      "url": "http://godiptv.dns.navy:1024/tv/getVideoConfigByPath/m3u/J04355695I19218922I832A816J4I378/2/height/y/ipv64"
-    },
-	{
       "name": "m3u-ipv6Plus",
       "url": "https://raw.githubusercontent.com/FRANKASEE/ip2/main/ipv6Plus.m3u"
     },
